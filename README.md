@@ -1,2 +1,1 @@
-# react-app
-Updating previous app 
+# NYT-Mongoose-Scraper
